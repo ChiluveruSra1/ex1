@@ -20,7 +20,7 @@ public class Task {
 		return tk;
 	}
 	public static void main(String[] args) {
-		
+		System.out.println("hi");
 	}
 	
 }
